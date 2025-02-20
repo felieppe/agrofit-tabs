@@ -1,5 +1,12 @@
 # Expo Tabs - Building with Expo's Navigation
 
+## Documentation
+
+* https://docs.expo.dev/router/advanced/tabs/
+* https://www.youtube.com/watch?v=D4XAhkjJXD4
+
+## What to Do
+
 **Objective:** Learn to create interactive tabs using React Native and Expo, following Expo's documentation for navigation.
 
 **Instructions:**
