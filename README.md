@@ -8,7 +8,13 @@
 2. **Navigate to the template folder:** `cd agrofit-tabs`
 3. **Install dependencies:** `npm install` or
 4. **Start the development server:** `expo start` or `npx expo start`
-5. **Implement the tabs:**
+5. **Implement a fake login:**
+
+   * Create a simple login screen (e.g., `LoginScreen.js`).  This screen should have input fields for email and password and a login button.
+   * For this assignment, you don't need to implement real authentication.  Instead, create a mock authentication.  When the user enters any email and password (or specific credentials if you prefer), navigate them to the main tabbed interface.
+  
+  
+6. **Implement the tabs:**
 
    * **Consult the Expo Navigation Documentation:**  Your primary resource for this assignment is the official [Expo Navigation documentation](https://docs.expo.dev/router/advanced/tabs/).
 
